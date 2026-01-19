@@ -10,6 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=nanobites000&theme=radical&hide_border=false)<br/>
 
+## 🐍 Contributions
+![snake gif](https://github.com/nanobites000/nanobites000/blob/output/github-snake-dark.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nanobites000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -21,3 +24,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nanobites000&icon=2&color=0)](https://visitcount.itsvg.in)
+
