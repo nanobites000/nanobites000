@@ -1,3 +1,5 @@
+![Github Profile Banner](https://github.com/nanobites000/nanobites000/blob/main/Github%20Media%20Graphics/HEADER_N000.png)
+
 # 💫 About Me:
 🔭 I’m currently working on improving my coding skills.<br>👯 I’m looking to collaborate on various freelance project opportunities.<br>🤝 I’m looking for help with nothing.<br>🌱 I’m currently learning React and  .NET.<br>💬 Ask me about anything really.<br>⚡ Fun fact: I'm alive.
 
